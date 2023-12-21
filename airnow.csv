@@ -1,0 +1,3 @@
+DateObserved,HourObserved,LocalTimeZone,ReportingArea,StateCode,Latitude,Longitude,ParameterName,AQI
+2023-05-08 ,8,PST,San Jose,CA,37.33,-121.9,O3,24
+2023-05-08 ,8,PST,San Jose,CA,37.33,-121.9,PM2.5,18
